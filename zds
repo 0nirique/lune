@@ -1,9 +1,10 @@
+
+
 @font-face {
-  font-family: 'chrisMaster';
-  src: url('assets/chrisMaster.eot');
-  src: url('assets/chrisMaster.eot?#iefix') format('embedded-opentype'),
-       url('assets/chrisMaster.woff2') format('woff2'),
-       url('assets/chrisMaster.woff') format('woff'),
-       url('assets/chrisMaster.ttf') format('truetype'),
-       url('assets/chrisMaster.svg#MyFont') format('svg');
+    font-family: 'chrismasterregular';
+    src: url('chrismaster-webfont.woff2') format('woff2'),
+         url('chrismaster-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
